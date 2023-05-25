@@ -1,0 +1,1 @@
+This website consists of a page with links to some recipes.
