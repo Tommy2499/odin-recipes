@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(50,50,50);
+    background-color: rgb(210, 210, 210);
+    border-width: 3px;
+
+    border-style: ridge;
+    border-color: rgb(150,150,150);
+    padding: 7px;
+    padding-left: 15px;
+}
+body{
+    background-color: rgb(215,215,230);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+ul{
+    background-color: rgb(180, 180, 180);
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    padding-left: 40px;
+}
