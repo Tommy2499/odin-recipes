@@ -5,15 +5,15 @@ h1 {
 
     border-style: ridge;
     border-color: rgb(150,150,150);
-    padding: 7px;
-    padding-left: 15px;
-    font-size: 60px;
+    padding: 20px;
     text-align: center;
+    font-size: 48px;
 }
 body{
     background-color: rgb(215,215,230);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 24px;
+    font-size: 18px;
+
 }
 ul{
     background-color: rgb(180, 180, 180);
@@ -21,5 +21,19 @@ ul{
     border-style: solid;
     padding: 10px;
     padding-left: 40px;
-    text-align: left;
+}
+p1{
+    background-color: rgb(180, 180, 180);
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+div{
+    background-color: rgb(220, 220, 200);
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
 }
