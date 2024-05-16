@@ -1,7 +1,7 @@
 h1 {
     color: rgb(50,50,50);
     background-color: rgb(210, 210, 210);
-    border-width: 3px;
+    border-width: 10px;
 
     border-style: ridge;
     border-color: rgb(150,150,150);
@@ -9,17 +9,25 @@ h1 {
     padding-left: 15px;
     font-size: 60px;
     text-align: center;
+    margin: auto;
 }
 body{
-    background-color: rgb(215,215,230);
+    background-color: rgb(225,225,240);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 24px;
+    margin: 20px;
+
 }
 ul{
     background-color: rgb(180, 180, 180);
     border-width: 2px;
     border-style: solid;
-    padding: 10px;
-    padding-left: 40px;
+    padding: 20px 60px;
     text-align: left;
+    margin: auto;
+}
+.card{
+    background: #fff;
+    margin: auto;
+    padding: 8px;
 }
